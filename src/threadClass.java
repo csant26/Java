@@ -1,7 +1,6 @@
+//Two methods to use thread using class.
 
-//Two methods to use thread.
-
-public class thread {
+public class threadClass {
     public static void main(String[] args) throws Exception{
         //Method 1: Use anonymous class (inner/outer) to instantiate the thread.
         Thread thread = new Thread(){
