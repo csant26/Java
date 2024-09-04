@@ -1,18 +1,9 @@
-## Getting Started
+**1.1. Java Architecture, Java Buzzwords, Path, and ClassPath variables, Sample Java Program, Compiling and Running Java Programs.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1.2. Arrays, for each loop, Class and Object, Overloading, Access Privileges, Interface, Inner Class, Final and Static Modifiers, Packages, Inheritance, and Overriding.
 
-## Folder Structure
+1.3. Handling Exceptions: Try, Catch, Finally, Throws, and Throw keywords, Creating Exception Class
 
-The workspace contains two folders by default, where:
+1.4. Concurrency: Introduction, Thread States, Writing Multithreaded Programs, Thread Properties, Thread Synchronization, Thread Priorities
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1.5. Working with Files: Byte Stream Classes, Character Stream Classes, Random Access File, Reading, and Writing Objects**
