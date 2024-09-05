@@ -1,18 +1,9 @@
-## Getting Started
+### 2.1.	Introduction: Concept of AWT, AWT vs Swing, Java Applets, Applet Life Cycle, Swing Class Hierarchy, Component and Containers 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### 2.2.	Layout Management: No Layout, Flow layout, Border Layout, Grid Layout, Gridbag Layout, Group Layout. 
 
-## Folder Structure
+### 2.3.	GUI Controls: Text Fields, Password Fields, Text Areas, Scroll Pane, Labels, Check Boxes, Radio Buttons, Borders, Combo Boxes, Sliders 
 
-The workspace contains two folders by default, where:
+### 2.4.	Menu, Menu Item, Icons in Menu Items, Check Box and Radio Buttons in Menu Items, Pop-up Menus, Keyboard Mnemonics and Accelerators, Enabling and Disabling Menu Items, Toolbars, Tooltips 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 2.5.	Option Dialogs, Creating Dialogs, File Choosers, Color Choosers, Internal Frames, Frames, Tables, Trees, and Tables. 
