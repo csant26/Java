@@ -1,18 +1,5 @@
-## Getting Started
+### 5.1. Transmission Control Protocol (TCP), User Datagram Protocol (UDP), Ports, IP Address Network Classes in JDK
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### 5.2. Socket programming using TCP, Socket programming using UDP, Working with URL’s, Working with URL Connection Class.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 5.3. Java Mail API, Sending and Receiving Email
