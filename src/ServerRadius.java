@@ -4,7 +4,7 @@ import java.net.*;
 public class ServerRadius {
     public static void main(String args[]) throws IOException{
         ServerSocket ss=new ServerSocket(4999);
-        System.out.println("Waiting for Client Request");
+        System.out.println("Waiting for Client Request.");
         Socket s=ss.accept();
         String str;
         BufferedReader br=new BufferedReader(new InputStreamReader(s.getInputStream()));

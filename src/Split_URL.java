@@ -1,5 +1,4 @@
 import java.net.*;
-
 public class Split_URL {
     public static void main(String[] args) throws MalformedURLException {        
         URL url1 = new URL("https://www.example.com:8080/path/to/resource?key1=value1&key2=value2#section2");

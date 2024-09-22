@@ -4,7 +4,7 @@ public class ClientSocketProgram {
     public static void main(String[] args) throws Exception{
         Socket s =new Socket("localhost",4999);
         PrintWriter pr = new PrintWriter(s.getOutputStream());
-        pr.println("hello");
+        pr.println("hillo");
         pr.flush();
         s.close();
     }

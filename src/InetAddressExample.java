@@ -1,3 +1,4 @@
+
 //Factory Method : creates socket instance; getByName(), getLocalHost() etc. are used to get InetAddress obj
 //Getter Method : retrieves properties of a socket instance; getHostName(), getHostAddress() etc. are used to retrieve information about the object.
 
