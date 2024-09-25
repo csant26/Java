@@ -4,8 +4,16 @@
         <servlet-name>MyServlet</servlet-name>
         <servlet-class>MyServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>GetParameterExample</servlet-name>
+        <servlet-class>GetParameterExample</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>MyServlet</servlet-name>
         <url-pattern>/MyServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>GetParameterExample</servlet-name>
+        <url-pattern>/GetParameterExample</url-pattern>
     </servlet-mapping>
 </web-app>
