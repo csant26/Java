@@ -1,5 +1,7 @@
-import java.sql.*;
+//DML vaneko insert, select, delete, update data
+//DDL vaneko create, truncate tables, database
 
+import java.sql.*;
 public class InsertData {
     public static void main(String[] args) throws Exception{
         Class.forName("com.mysql.jdbc.Driver");
